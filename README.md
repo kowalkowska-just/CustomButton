@@ -1,4 +1,6 @@
-##### _Swift 5 | Xcode 11_
+##### _Swift 5_
+##### _Xcode 12.1_     
+##### _iOS 14.1_ 
 
 # CustomButton
 ### The class with custom button containing 
